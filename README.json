@@ -1,0 +1,286 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Angular",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Publish a server-side rendered Angular app with Azure Static Web Apps",
+              "description": "[github.com]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "HTML",
+                "last_commit": "2023-01-06T06:28:44Z",
+                "owner": "manekinekko",
+                "repo": "angular-ssr-swa",
+                "stars": 21
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Eleventy",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Publish an Eleventy app with Azure Static Web Apps",
+              "description": "[github.com]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "CSS",
+                "last_commit": "2021-04-07T15:18:51Z",
+                "owner": "manekinekko",
+                "repo": "11ty-blog-swa",
+                "stars": 4
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Stencil",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Publish a Stencil app with Azure Static Web Apps",
+              "description": "[github.com]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2020-05-20T13:32:28Z",
+                "owner": "manekinekko",
+                "repo": "stencil-swa",
+                "stars": 3
+              }
+            }
+          ]
+        }
+      ],
+      "title": "By technology"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Developing with VS Code Devcontainers",
+          "description": "(devcontainer reference)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Shell",
+            "last_commit": "2023-11-30T01:20:08Z",
+            "owner": "microsoft",
+            "repo": "vscode-dev-containers",
+            "stars": 4742
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Azure Static Web Apps CLI",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-21T09:15:44Z",
+            "owner": "Azure",
+            "repo": "static-web-apps-cli",
+            "stars": 668
+          }
+        }
+      ],
+      "title": "Local Dev"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "React auth components",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-03-27T01:22:50Z",
+            "owner": "aaronpowell",
+            "repo": "react-static-web-apps-auth",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blazor Authentication for Azure Static Web Apps",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2022-11-07T05:29:40Z",
+            "owner": "Azure",
+            "repo": "azure-app-service-authentication",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JavaScript API Authentication helper",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2021-02-03T05:55:54Z",
+            "owner": "aaronpowell",
+            "repo": "azure-static-web-apps-api-auth",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Angular auth library",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2021-12-17T12:59:05Z",
+            "owner": "christianacca",
+            "repo": "static-web-apps-auth",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Auth"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Azure Static Web Apps and Mongoose starter kit",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-08-18T14:30:19Z",
+            "owner": "GeekTrainer",
+            "repo": "aswa-student-starter-kit",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Azure Static Web Apps Minimal HTML/JS/CSS Template",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-03-05T13:20:50Z",
+            "owner": "sinedied",
+            "repo": "swag-demo",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TypeScript React + API starter kit",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-01-07T05:05:25Z",
+            "owner": "aaronpowell",
+            "repo": "aswa-react-template",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fable + Feliz for Azure Static Web Apps",
+          "description": "GitHub repo template for Feliz + Functions for Azure Static Web Apps",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2021-07-09T01:34:07Z",
+            "owner": "aaronpowell",
+            "repo": "swa-feliz-template",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Elmish for Azure Static Web Apps",
+          "description": "GitHub repo template for Elmish + Functions for Azure Static Web Apps",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2021-07-09T01:34:30Z",
+            "owner": "aaronpowell",
+            "repo": "swa-elmish-template",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fable for Azure Static Web Apps",
+          "description": "GitHub repo template for Fable + Functions for Azure Static Web Apps",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2021-07-09T01:34:48Z",
+            "owner": "aaronpowell",
+            "repo": "swa-fable-template",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Azure Static Web Apps minimal TypeScript setup (app + API)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2021-06-23T18:55:09Z",
+            "owner": "manekinekko",
+            "repo": "swa-typescript",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Starter Kits"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:00:02.094Z",
+    "original_repository": "staticwebdev/awesome-azure-static-web-apps",
+    "original_repository_sha": "32c933ec2f2757b9714f9e9047516906493453db",
+    "enhanced_repository": "enhansome/enhansome-azure-static-web-apps",
+    "enhanced_repository_description": null,
+    "title": "Awesome Azure Static Web Apps with stars"
+  }
+}
