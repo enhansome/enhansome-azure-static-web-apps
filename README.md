@@ -16,7 +16,7 @@
 ## General Resources
 
 * [Official docs and quickstart](https://docs.microsoft.com/azure/static-web-apps/?WT.mc_id=javascript-11478-cxa)
-* [GitHub issue register](https://github.com/Azure/static-web-apps/issues) ⭐ 346 | 🐛 812 | 📅 2024-11-08
+* [GitHub issue register](https://github.com/Azure/static-web-apps/issues) ⭐ 346 | 🐛 814 | 📅 2024-11-08
 
 ## Learning resources
 
@@ -90,8 +90,8 @@
 ## Starter Kits
 
 * [Azure Static Web Apps and Mongoose starter kit](https://github.com/GeekTrainer/aswa-student-starter-kit) ⭐ 24 | 🐛 2 | 🌐 JavaScript | 📅 2021-08-18
+* [TypeScript React + API starter kit](https://github.com/aaronpowell/aswa-react-template) ⭐ 17 | 🐛 20 | 🌐 TypeScript | 📅 2023-01-07
 * [Azure Static Web Apps Minimal HTML/JS/CSS Template](https://github.com/sinedied/azure-swag) ⭐ 16 | 🐛 0 | 🌐 JavaScript | 📅 2024-03-05
-* [TypeScript React + API starter kit](https://github.com/aaronpowell/aswa-react-template) ⭐ 16 | 🐛 20 | 🌐 TypeScript | 📅 2023-01-07
 * [Fable + Feliz for Azure Static Web Apps](https://github.com/aaronpowell/swa-feliz-template) ⭐ 13 | 🐛 0 | 🌐 Shell | 📅 2021-07-09 - GitHub repo template for Feliz + Functions for Azure Static Web Apps
 * [Elmish for Azure Static Web Apps](https://github.com/aaronpowell/swa-elmish-template) ⭐ 11 | 🐛 0 | 🌐 Shell | 📅 2021-07-09 - GitHub repo template for Elmish + Functions for Azure Static Web Apps
 * [Fable for Azure Static Web Apps](https://github.com/aaronpowell/swa-fable-template) ⭐ 9 | 🐛 0 | 🌐 Shell | 📅 2021-07-09 - GitHub repo template for Fable + Functions for Azure Static Web Apps

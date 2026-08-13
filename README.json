@@ -189,20 +189,6 @@
         },
         {
           "node_type": "item",
-          "title": "Azure Static Web Apps Minimal HTML/JS/CSS Template",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-03-05T13:20:50Z",
-            "owner": "sinedied",
-            "repo": "swag-demo",
-            "stars": 16
-          }
-        },
-        {
-          "node_type": "item",
           "title": "TypeScript React + API starter kit",
           "description": null,
           "children": [],
@@ -212,6 +198,20 @@
             "last_commit": "2023-01-07T05:05:25Z",
             "owner": "aaronpowell",
             "repo": "aswa-react-template",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Azure Static Web Apps Minimal HTML/JS/CSS Template",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-03-05T13:20:50Z",
+            "owner": "sinedied",
+            "repo": "swag-demo",
             "stars": 16
           }
         },
@@ -276,7 +276,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:00:02.094Z",
+    "last_updated": "2026-08-13T16:54:21.923Z",
     "original_repository": "staticwebdev/awesome-azure-static-web-apps",
     "original_repository_sha": "32c933ec2f2757b9714f9e9047516906493453db",
     "enhanced_repository": "enhansome/enhansome-azure-static-web-apps",
