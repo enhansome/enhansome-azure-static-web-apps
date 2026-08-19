@@ -1,177 +1,196 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "group",
-          "title": "Angular",
-          "description": null,
           "children": [
             {
-              "node_type": "item",
-              "title": "Publish a server-side rendered Angular app with Azure Static Web Apps",
-              "description": "[github.com]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "HTML",
-                "last_commit": "2023-01-06T06:28:44Z",
-                "owner": "manekinekko",
-                "repo": "angular-ssr-swa",
-                "stars": 21
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Eleventy",
-          "description": null,
-          "children": [
+              "node_type": "group",
+              "title": "Angular",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Publish a server-side rendered Angular app with Azure Static Web Apps",
+                  "description": "[github.com]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 265550436,
+                    "language": "HTML",
+                    "last_commit": "2023-01-06T06:28:44Z",
+                    "owner": "manekinekko",
+                    "repo": "angular-ssr-swa",
+                    "stars": 21
+                  }
+                }
+              ]
+            },
             {
-              "node_type": "item",
-              "title": "Publish an Eleventy app with Azure Static Web Apps",
-              "description": "[github.com]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "CSS",
-                "last_commit": "2021-04-07T15:18:51Z",
-                "owner": "manekinekko",
-                "repo": "11ty-blog-swa",
-                "stars": 4
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Stencil",
-          "description": null,
-          "children": [
+              "node_type": "group",
+              "title": "Eleventy",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Publish an Eleventy app with Azure Static Web Apps",
+                  "description": "[github.com]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 265803930,
+                    "language": "CSS",
+                    "last_commit": "2021-04-07T15:18:51Z",
+                    "owner": "manekinekko",
+                    "repo": "11ty-blog-swa",
+                    "stars": 4
+                  }
+                }
+              ]
+            },
             {
-              "node_type": "item",
-              "title": "Publish a Stencil app with Azure Static Web Apps",
-              "description": "[github.com]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "TypeScript",
-                "last_commit": "2020-05-20T13:32:28Z",
-                "owner": "manekinekko",
-                "repo": "stencil-swa",
-                "stars": 3
-              }
+              "node_type": "group",
+              "title": "Stencil",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Publish a Stencil app with Azure Static Web Apps",
+                  "description": "[github.com]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 265348270,
+                    "language": "TypeScript",
+                    "last_commit": "2020-05-20T13:32:28Z",
+                    "owner": "manekinekko",
+                    "repo": "stencil-swa",
+                    "stars": 3
+                  }
+                }
+              ]
             }
-          ]
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "By technology"
         }
       ],
-      "title": "By technology"
+      "title": "Learning resources"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Developing with VS Code Devcontainers",
+              "description": "(devcontainer reference)",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 156217558,
+                "language": "Shell",
+                "last_commit": "2023-11-30T01:20:08Z",
+                "owner": "microsoft",
+                "repo": "vscode-dev-containers",
+                "stars": 4742
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Azure Static Web Apps CLI",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 275245011,
+                "language": "TypeScript",
+                "last_commit": "2026-07-21T09:15:44Z",
+                "owner": "Azure",
+                "repo": "static-web-apps-cli",
+                "stars": 668
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Local Dev"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "React auth components",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 321846652,
+                "language": "TypeScript",
+                "last_commit": "2024-03-27T01:22:50Z",
+                "owner": "aaronpowell",
+                "repo": "react-static-web-apps-auth",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Blazor Authentication for Azure Static Web Apps",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 290893464,
+                "language": "C#",
+                "last_commit": "2022-11-07T05:29:40Z",
+                "owner": "Azure",
+                "repo": "azure-app-service-authentication",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "JavaScript API Authentication helper",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 327792121,
+                "language": "HTML",
+                "last_commit": "2021-02-03T05:55:54Z",
+                "owner": "aaronpowell",
+                "repo": "azure-static-web-apps-api-auth",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Angular auth library",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 397538712,
+                "language": "TypeScript",
+                "last_commit": "2021-12-17T12:59:05Z",
+                "owner": "christianacca",
+                "repo": "static-web-apps-auth",
+                "stars": 6
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Auth"
+        }
+      ],
       "title": "Tools"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Developing with VS Code Devcontainers",
-          "description": "(devcontainer reference)",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Shell",
-            "last_commit": "2023-11-30T01:20:08Z",
-            "owner": "microsoft",
-            "repo": "vscode-dev-containers",
-            "stars": 4742
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Azure Static Web Apps CLI",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-21T09:15:44Z",
-            "owner": "Azure",
-            "repo": "static-web-apps-cli",
-            "stars": 668
-          }
-        }
-      ],
-      "title": "Local Dev"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "React auth components",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-03-27T01:22:50Z",
-            "owner": "aaronpowell",
-            "repo": "react-static-web-apps-auth",
-            "stars": 18
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Blazor Authentication for Azure Static Web Apps",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "C#",
-            "last_commit": "2022-11-07T05:29:40Z",
-            "owner": "Azure",
-            "repo": "azure-app-service-authentication",
-            "stars": 14
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "JavaScript API Authentication helper",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2021-02-03T05:55:54Z",
-            "owner": "aaronpowell",
-            "repo": "azure-static-web-apps-api-auth",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Angular auth library",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2021-12-17T12:59:05Z",
-            "owner": "christianacca",
-            "repo": "static-web-apps-auth",
-            "stars": 6
-          }
-        }
-      ],
-      "title": "Auth"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -180,6 +199,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 310709069,
             "language": "JavaScript",
             "last_commit": "2021-08-18T14:30:19Z",
             "owner": "GeekTrainer",
@@ -194,6 +214,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 277428685,
             "language": "TypeScript",
             "last_commit": "2023-01-07T05:05:25Z",
             "owner": "aaronpowell",
@@ -208,6 +229,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 263002668,
             "language": "JavaScript",
             "last_commit": "2024-03-05T13:20:50Z",
             "owner": "sinedied",
@@ -222,6 +244,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 383670485,
             "language": "Shell",
             "last_commit": "2021-07-09T01:34:07Z",
             "owner": "aaronpowell",
@@ -236,6 +259,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 383648165,
             "language": "Shell",
             "last_commit": "2021-07-09T01:34:30Z",
             "owner": "aaronpowell",
@@ -250,6 +274,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 383369771,
             "language": "Shell",
             "last_commit": "2021-07-09T01:34:48Z",
             "owner": "aaronpowell",
@@ -264,6 +289,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 378175538,
             "language": "HTML",
             "last_commit": "2021-06-23T18:55:09Z",
             "owner": "manekinekko",
@@ -276,8 +302,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T16:28:39.796Z",
+    "last_updated": "2026-08-19T12:16:20.574Z",
     "original_repository": "staticwebdev/awesome-azure-static-web-apps",
+    "original_repository_id": 317926925,
     "original_repository_sha": "32c933ec2f2757b9714f9e9047516906493453db",
     "enhanced_repository": "enhansome/enhansome-azure-static-web-apps",
     "enhanced_repository_description": null,
