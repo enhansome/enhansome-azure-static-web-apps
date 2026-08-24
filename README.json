@@ -123,6 +123,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "GitHub Action for deploying to Azure Static Web Apps",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 256014197,
+                "language": "Dockerfile",
+                "last_commit": "2024-09-11T21:45:37Z",
+                "owner": "Azure",
+                "repo": "static-web-apps-deploy",
+                "stars": 168
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Deployment"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "React auth components",
               "description": null,
               "children": [],
@@ -302,7 +324,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T16:21:47.765Z",
+    "last_updated": "2026-08-24T14:40:47.522Z",
     "original_repository": "staticwebdev/awesome-azure-static-web-apps",
     "original_repository_id": 317926925,
     "original_repository_sha": "32c933ec2f2757b9714f9e9047516906493453db",
