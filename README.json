@@ -111,7 +111,7 @@
                 "last_commit": "2026-07-21T09:15:44Z",
                 "owner": "Azure",
                 "repo": "static-web-apps-cli",
-                "stars": 667
+                "stars": 668
               }
             }
           ],
@@ -324,7 +324,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T16:34:17.306Z",
+    "last_updated": "2026-08-26T16:46:13.115Z",
     "original_repository": "staticwebdev/awesome-azure-static-web-apps",
     "original_repository_id": 317926925,
     "original_repository_sha": "32c933ec2f2757b9714f9e9047516906493453db",
