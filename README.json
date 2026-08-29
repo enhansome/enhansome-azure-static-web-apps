@@ -23,7 +23,8 @@
                     "owner": "manekinekko",
                     "repo": "angular-ssr-swa",
                     "stars": 21
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:24:02.863Z"
                 }
               ]
             },
@@ -45,7 +46,8 @@
                     "owner": "manekinekko",
                     "repo": "11ty-blog-swa",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:24:02.863Z"
                 }
               ]
             },
@@ -67,7 +69,8 @@
                     "owner": "manekinekko",
                     "repo": "stencil-swa",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:24:02.863Z"
                 }
               ]
             }
@@ -97,7 +100,8 @@
                 "owner": "microsoft",
                 "repo": "vscode-dev-containers",
                 "stars": 4743
-              }
+              },
+              "first_seen": "2026-08-29T00:24:02.863Z"
             },
             {
               "node_type": "item",
@@ -112,7 +116,8 @@
                 "owner": "Azure",
                 "repo": "static-web-apps-cli",
                 "stars": 668
-              }
+              },
+              "first_seen": "2026-08-29T00:24:02.863Z"
             }
           ],
           "description": null,
@@ -134,7 +139,8 @@
                 "owner": "Azure",
                 "repo": "static-web-apps-deploy",
                 "stars": 168
-              }
+              },
+              "first_seen": "2026-08-29T00:24:02.863Z"
             }
           ],
           "description": null,
@@ -156,7 +162,8 @@
                 "owner": "aaronpowell",
                 "repo": "react-static-web-apps-auth",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-29T00:24:02.863Z"
             },
             {
               "node_type": "item",
@@ -171,7 +178,8 @@
                 "owner": "Azure",
                 "repo": "azure-app-service-authentication",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-29T00:24:02.863Z"
             },
             {
               "node_type": "item",
@@ -186,7 +194,8 @@
                 "owner": "aaronpowell",
                 "repo": "azure-static-web-apps-api-auth",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-29T00:24:02.863Z"
             },
             {
               "node_type": "item",
@@ -201,7 +210,8 @@
                 "owner": "christianacca",
                 "repo": "static-web-apps-auth",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-29T00:24:02.863Z"
             }
           ],
           "description": null,
@@ -227,7 +237,8 @@
             "owner": "GeekTrainer",
             "repo": "aswa-student-starter-kit",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-29T00:24:02.863Z"
         },
         {
           "node_type": "item",
@@ -242,7 +253,8 @@
             "owner": "aaronpowell",
             "repo": "aswa-react-template",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-29T00:24:02.863Z"
         },
         {
           "node_type": "item",
@@ -257,7 +269,8 @@
             "owner": "sinedied",
             "repo": "swag-demo",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-29T00:24:02.863Z"
         },
         {
           "node_type": "item",
@@ -272,7 +285,8 @@
             "owner": "aaronpowell",
             "repo": "swa-feliz-template",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-29T00:24:02.863Z"
         },
         {
           "node_type": "item",
@@ -287,7 +301,8 @@
             "owner": "aaronpowell",
             "repo": "swa-elmish-template",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-29T00:24:02.863Z"
         },
         {
           "node_type": "item",
@@ -302,7 +317,8 @@
             "owner": "aaronpowell",
             "repo": "swa-fable-template",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-29T00:24:02.863Z"
         },
         {
           "node_type": "item",
@@ -317,14 +333,15 @@
             "owner": "manekinekko",
             "repo": "swa-typescript",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-29T00:24:02.863Z"
         }
       ],
       "title": "Starter Kits"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T00:44:38.005Z",
+    "last_updated": "2026-08-29T00:24:02.863Z",
     "original_repository_info": {
       "archived": false,
       "id": 317926925,
