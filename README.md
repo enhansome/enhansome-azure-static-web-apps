@@ -72,7 +72,7 @@
 ### Local Dev
 
 * [Developing with VS Code Devcontainers](https://acloudguru.com/blog/engineering/how-to-develop-serverless-apps-with-github-codespaces) ([devcontainer reference](https://github.com/microsoft/vscode-dev-containers/tree/master/containers/azure-static-web-apps) ⚠️ Archived)
-* [Azure Static Web Apps CLI](https://github.com/Azure/static-web-apps-cli) ⭐ 668 | 🐛 141 | 🌐 TypeScript | 📅 2026-07-21
+* [Azure Static Web Apps CLI](https://github.com/Azure/static-web-apps-cli) ⭐ 668 | 🐛 142 | 🌐 TypeScript | 📅 2026-07-21
 * [Azure Static Web Apps Extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurestaticwebapps\&WT.mc_id=javascript-11478-cxa)
 * [Test a staticwebapp.config.json file](https://swa-playground.wassim.dev/)
 

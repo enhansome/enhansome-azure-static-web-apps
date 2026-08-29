@@ -17,12 +17,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": "https://blue-bay-00cc1f303.azurestaticapps.net",
                     "id": 265550436,
                     "language": "HTML",
+                    "license": null,
                     "last_commit": "2023-01-06T06:28:44Z",
+                    "open_issues": 23,
                     "owner": "manekinekko",
                     "repo": "angular-ssr-swa",
-                    "stars": 21
+                    "stars": 21,
+                    "topics": [
+                      "angular",
+                      "azure",
+                      "azure-static-web-apps",
+                      "server-side-rendering",
+                      "ssr",
+                      "swa"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:24:02.863Z"
                 }
@@ -40,12 +52,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": "https://aka.ms/11ty-swa",
                     "id": 265803930,
                     "language": "CSS",
+                    "license": "MIT",
                     "last_commit": "2021-04-07T15:18:51Z",
+                    "open_issues": 0,
                     "owner": "manekinekko",
                     "repo": "11ty-blog-swa",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": [
+                      "azure",
+                      "azure-static-web-apps",
+                      "blog",
+                      "eleventy",
+                      "static-site",
+                      "static-site-generator"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:24:02.863Z"
                 }
@@ -63,12 +87,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 265348270,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2020-05-20T13:32:28Z",
+                    "open_issues": 0,
                     "owner": "manekinekko",
                     "repo": "stencil-swa",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": [
+                      "azure",
+                      "azure-static-web-apps",
+                      "stenciljs"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:24:02.863Z"
                 }
@@ -94,12 +127,32 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "NOTE: Most of the contents of this repository have been migrated to the new devcontainers GitHub org (https://github.com/devcontainers). See https://github.com/devcontainers/template-starter and https://github.com/devcontainers/feature-starter for information on creating your own!",
+                "homepage": "https://aka.ms/vscode-remote",
                 "id": 156217558,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2023-11-30T01:20:08Z",
+                "open_issues": 216,
                 "owner": "microsoft",
                 "repo": "vscode-dev-containers",
-                "stars": 4743
+                "stars": 4743,
+                "topics": [
+                  "codespaces",
+                  "containers",
+                  "dev-containers",
+                  "devcontainer",
+                  "devcontainers",
+                  "docker",
+                  "github",
+                  "github-codespaces",
+                  "remote",
+                  "remote-development",
+                  "visual-studio-code",
+                  "visual-studio-codespaces",
+                  "vs",
+                  "vscode"
+                ]
               },
               "first_seen": "2026-08-29T00:24:02.863Z"
             },
@@ -110,12 +163,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Azure Static Web Apps CLI ✨",
+                "homepage": "https://aka.ms/swa/cli-local-development",
                 "id": 275245011,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-07-21T09:15:44Z",
+                "open_issues": 142,
                 "owner": "Azure",
                 "repo": "static-web-apps-cli",
-                "stars": 668
+                "stars": 668,
+                "topics": [
+                  "authentication",
+                  "azure",
+                  "azure-functions",
+                  "cli",
+                  "serverless",
+                  "static",
+                  "swa",
+                  "swa-emulator",
+                  "web",
+                  "webapp"
+                ]
               },
               "first_seen": "2026-08-29T00:24:02.863Z"
             }
@@ -133,12 +202,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Enable GitHub developers to deploy to Azure Static Web Apps using GitHub Actions",
+                "homepage": null,
                 "id": 256014197,
                 "language": "Dockerfile",
+                "license": "MIT",
                 "last_commit": "2024-09-11T21:45:37Z",
+                "open_issues": 4,
                 "owner": "Azure",
                 "repo": "static-web-apps-deploy",
-                "stars": 168
+                "stars": 168,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:24:02.863Z"
             }
@@ -156,12 +230,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A package to make it easier to work with authenticated React apps and Azure Static Web Apps",
+                "homepage": "http://react-swa-auth.aaron-powell.com/",
                 "id": 321846652,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-03-27T01:22:50Z",
+                "open_issues": 0,
                 "owner": "aaronpowell",
                 "repo": "react-static-web-apps-auth",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "auth",
+                  "azure",
+                  "azure-static-web-apps",
+                  "react",
+                  "static-web-apps"
+                ]
               },
               "first_seen": "2026-08-29T00:24:02.863Z"
             },
@@ -172,12 +257,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Authentication SDKs for Azure App Service and Azure Static Web Apps",
+                "homepage": null,
                 "id": 290893464,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2022-11-07T05:29:40Z",
+                "open_issues": 4,
                 "owner": "Azure",
                 "repo": "azure-app-service-authentication",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:24:02.863Z"
             },
@@ -188,12 +278,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A package to make it easier to work with Azure Static Web Apps auth in the API backend",
+                "homepage": null,
                 "id": 327792121,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2021-02-03T05:55:54Z",
+                "open_issues": 0,
                 "owner": "aaronpowell",
                 "repo": "azure-static-web-apps-api-auth",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:24:02.863Z"
             },
@@ -204,12 +299,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Azure static web apps auth library",
+                "homepage": null,
                 "id": 397538712,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2021-12-17T12:59:05Z",
+                "open_issues": 1,
                 "owner": "christianacca",
                 "repo": "static-web-apps-auth",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:24:02.863Z"
             }
@@ -231,12 +331,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 310709069,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2021-08-18T14:30:19Z",
+            "open_issues": 2,
             "owner": "GeekTrainer",
             "repo": "aswa-student-starter-kit",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:24:02.863Z"
         },
@@ -247,12 +352,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A template for creating Azure Static Web Apps using React",
+            "homepage": null,
             "id": 277428685,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-01-07T05:05:25Z",
+            "open_issues": 20,
             "owner": "aaronpowell",
             "repo": "aswa-react-template",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:24:02.863Z"
         },
@@ -263,12 +373,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Minimal Azure SWAG demo :sunglasses: Stay positive! ",
+            "homepage": "https://aka.ms/staypositive",
             "id": 263002668,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-03-05T13:20:50Z",
+            "open_issues": 0,
             "owner": "sinedied",
             "repo": "swag-demo",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "api",
+              "azure",
+              "demo",
+              "static-site",
+              "swag",
+              "template",
+              "webapp"
+            ]
           },
           "first_seen": "2026-08-29T00:24:02.863Z"
         },
@@ -279,12 +402,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A GitHub repo template for creating Fable + Feliz apps for Azure Static Web Apps",
+            "homepage": null,
             "id": 383670485,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2021-07-09T01:34:07Z",
+            "open_issues": 0,
             "owner": "aaronpowell",
             "repo": "swa-feliz-template",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:24:02.863Z"
         },
@@ -295,12 +423,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A GitHub repo template for Elmish apps for Azure Static Web Apps",
+            "homepage": null,
             "id": 383648165,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2021-07-09T01:34:30Z",
+            "open_issues": 0,
             "owner": "aaronpowell",
             "repo": "swa-elmish-template",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:24:02.863Z"
         },
@@ -311,12 +444,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A template for creating F# Azure Static Web Apps, using Fable for the UI",
+            "homepage": null,
             "id": 383369771,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2021-07-09T01:34:48Z",
+            "open_issues": 0,
             "owner": "aaronpowell",
             "repo": "swa-fable-template",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:24:02.863Z"
         },
@@ -327,12 +465,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Azure Static Web Apps minimal TypeScript setup (app + API)",
+            "homepage": "https://docs.microsoft.com/en-us/azure/static-web-apps/overview",
             "id": 378175538,
             "language": "HTML",
+            "license": null,
             "last_commit": "2021-06-23T18:55:09Z",
+            "open_issues": 0,
             "owner": "manekinekko",
             "repo": "swa-typescript",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:24:02.863Z"
         }
@@ -341,15 +484,23 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:24:02.863Z",
+    "last_updated": "2026-08-29T04:59:08.654Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Curated list of resources for Azure Static Web Apps",
+      "homepage": null,
       "id": 317926925,
       "language": null,
+      "license": "MIT",
       "last_commit": "2022-12-13T09:52:19Z",
+      "open_issues": 0,
       "owner": "staticwebdev",
       "repo": "awesome-azure-static-web-apps",
-      "stars": 95
+      "stars": 95,
+      "topics": [
+        "awesome-list",
+        "azure-static-web-apps"
+      ]
     },
     "original_repository_sha": "32c933ec2f2757b9714f9e9047516906493453db",
     "enhanced_repository": "enhansome/enhansome-azure-static-web-apps",
