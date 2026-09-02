@@ -136,7 +136,7 @@
                 "open_issues": 216,
                 "owner": "microsoft",
                 "repo": "vscode-dev-containers",
-                "stars": 4743,
+                "stars": 4742,
                 "topics": [
                   "codespaces",
                   "containers",
@@ -484,7 +484,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T19:11:56.679Z",
+    "last_updated": "2026-09-02T19:12:45.796Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of resources for Azure Static Web Apps",
