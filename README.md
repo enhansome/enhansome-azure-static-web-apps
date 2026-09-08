@@ -16,7 +16,7 @@
 ## General Resources
 
 * [Official docs and quickstart](https://docs.microsoft.com/azure/static-web-apps/?WT.mc_id=javascript-11478-cxa)
-* [GitHub issue register](https://github.com/Azure/static-web-apps/issues) ⭐ 346 | 🐛 822 | 📅 2024-11-08
+* [GitHub issue register](https://github.com/Azure/static-web-apps/issues) ⭐ 346 | 🐛 823 | 📅 2024-11-08
 
 ## Learning resources
 
@@ -78,7 +78,7 @@
 
 ### Deployment
 
-* [GitHub Action for deploying to Azure Static Web Apps](https://github.com/Azure/static-web-apps-deploy) ⭐ 169 | 🐛 4 | 🌐 Dockerfile | 📅 2024-09-11
+* [GitHub Action for deploying to Azure Static Web Apps](https://github.com/Azure/static-web-apps-deploy) ⭐ 170 | 🐛 4 | 🌐 Dockerfile | 📅 2024-09-11
 
 ### Auth
 
@@ -104,4 +104,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
