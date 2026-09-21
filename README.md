@@ -100,8 +100,8 @@
 
 ## Showcase
 
-* [Community Projects Gallery](https://github.com/microsoft/static-web-apps-gallery-code-samples) ⭐ 163 | 🐛 4 | 📅 2024-11-07
+* [Community Projects Gallery](https://github.com/microsoft/static-web-apps-gallery-code-samples) ⭐ 162 | 🐛 4 | 📅 2024-11-07
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
