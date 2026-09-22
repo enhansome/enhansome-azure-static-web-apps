@@ -211,7 +211,7 @@
                 "open_issues": 4,
                 "owner": "Azure",
                 "repo": "static-web-apps-deploy",
-                "stars": 170,
+                "stars": 169,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:24:02.863Z"
@@ -484,7 +484,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T20:15:31.702Z",
+    "last_updated": "2026-09-22T19:33:54.790Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of resources for Azure Static Web Apps",
