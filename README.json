@@ -169,7 +169,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-07-21T09:15:44Z",
-                "open_issues": 144,
+                "open_issues": 145,
                 "owner": "Azure",
                 "repo": "static-web-apps-cli",
                 "stars": 668,
@@ -484,7 +484,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T19:31:47.276Z",
+    "last_updated": "2026-09-28T21:35:15.560Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of resources for Azure Static Web Apps",
