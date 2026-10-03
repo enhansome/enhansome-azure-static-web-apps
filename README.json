@@ -159,7 +159,7 @@
             {
               "node_type": "item",
               "title": "Azure Static Web Apps CLI",
-              "description": null,
+              "description": "Azure/static-web-apps-cli",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -198,7 +198,7 @@
             {
               "node_type": "item",
               "title": "GitHub Action for deploying to Azure Static Web Apps",
-              "description": null,
+              "description": "Azure/static-web-apps-deploy",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -226,7 +226,7 @@
             {
               "node_type": "item",
               "title": "React auth components",
-              "description": null,
+              "description": "aaronpowell/react-static-web-apps-auth",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -253,7 +253,7 @@
             {
               "node_type": "item",
               "title": "Blazor Authentication for Azure Static Web Apps",
-              "description": null,
+              "description": "Azure/azure-app-service-authentication",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -274,7 +274,7 @@
             {
               "node_type": "item",
               "title": "JavaScript API Authentication helper",
-              "description": null,
+              "description": "aaronpowell/azure-static-web-apps-api-auth",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -295,7 +295,7 @@
             {
               "node_type": "item",
               "title": "Angular auth library",
-              "description": null,
+              "description": "christianacca/static-web-apps-auth",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -327,7 +327,7 @@
         {
           "node_type": "item",
           "title": "Azure Static Web Apps and Mongoose starter kit",
-          "description": null,
+          "description": "GeekTrainer/aswa-student-starter-kit",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -348,7 +348,7 @@
         {
           "node_type": "item",
           "title": "TypeScript React + API starter kit",
-          "description": null,
+          "description": "aaronpowell/aswa-react-template",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -369,7 +369,7 @@
         {
           "node_type": "item",
           "title": "Azure Static Web Apps Minimal HTML/JS/CSS Template",
-          "description": null,
+          "description": "sinedied/swag-demo",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -461,7 +461,7 @@
         {
           "node_type": "item",
           "title": "Azure Static Web Apps minimal TypeScript setup (app + API)",
-          "description": null,
+          "description": "manekinekko/swa-typescript",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -484,7 +484,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T20:21:11.401Z",
+    "last_updated": "2026-10-03T04:36:51.992Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of resources for Azure Static Web Apps",
