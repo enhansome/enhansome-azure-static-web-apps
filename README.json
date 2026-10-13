@@ -136,7 +136,7 @@
                 "open_issues": 216,
                 "owner": "microsoft",
                 "repo": "vscode-dev-containers",
-                "stars": 4739,
+                "stars": 4740,
                 "topics": [
                   "codespaces",
                   "containers",
@@ -168,7 +168,7 @@
                 "id": 275245011,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-07-21T09:15:44Z",
+                "last_commit": "2026-10-13T08:21:07Z",
                 "open_issues": 145,
                 "owner": "Azure",
                 "repo": "static-web-apps-cli",
@@ -484,7 +484,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T22:43:11.549Z",
+    "last_updated": "2026-10-13T20:58:36.594Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of resources for Azure Static Web Apps",
