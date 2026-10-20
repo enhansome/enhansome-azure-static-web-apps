@@ -16,7 +16,7 @@
 ## General Resources
 
 * [Official docs and quickstart](https://docs.microsoft.com/azure/static-web-apps/?WT.mc_id=javascript-11478-cxa)
-* [GitHub issue register](https://github.com/Azure/static-web-apps/issues) ⭐ 346 | 🐛 828 | 📅 2024-11-08
+* [GitHub issue register](https://github.com/Azure/static-web-apps/issues) ⭐ 346 | 🐛 829 | 📅 2024-11-08
 
 ## Learning resources
 
@@ -72,7 +72,7 @@
 ### Local Dev
 
 * [Developing with VS Code Devcontainers](https://acloudguru.com/blog/engineering/how-to-develop-serverless-apps-with-github-codespaces) ([devcontainer reference](https://github.com/microsoft/vscode-dev-containers/tree/master/containers/azure-static-web-apps) ⚠️ Archived)
-* [Azure Static Web Apps CLI](https://github.com/Azure/static-web-apps-cli) ⭐ 668 | 🐛 147 | 🌐 TypeScript | 📅 2026-10-14
+* [Azure Static Web Apps CLI](https://github.com/Azure/static-web-apps-cli) ⭐ 668 | 🐛 145 | 🌐 TypeScript | 📅 2026-10-20
 * [Azure Static Web Apps Extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurestaticwebapps\&WT.mc_id=javascript-11478-cxa)
 * [Test a staticwebapp.config.json file](https://swa-playground.wassim.dev/)
 
@@ -104,4 +104,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
