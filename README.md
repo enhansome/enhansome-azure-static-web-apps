@@ -41,7 +41,7 @@
 ### By technology
 
 * [Angular](https://angular.io/)
-  * [Publish a server-side rendered Angular app with Azure Static Web Apps](https://github.com/manekinekko/angular-ssr-swa#angular-server-side-rendering-on-azure-static-web-apps) ⭐ 21 | 🐛 23 | 🌐 HTML | 📅 2023-01-06 \[github.com]
+  * [Publish a server-side rendered Angular app with Azure Static Web Apps](https://github.com/manekinekko/angular-ssr-swa#angular-server-side-rendering-on-azure-static-web-apps) ⭐ 22 | 🐛 23 | 🌐 HTML | 📅 2023-01-06 \[github.com]
   * [Publish an Angular app with Azure Static Web Apps](https://docs.microsoft.com/learn/modules/publish-app-service-static-web-app-api/?WT.mc_id=javascript-11478-cxa) \[docs.microsoft.com]
   * [Deploy an Angular Application with Azure Static Web Apps](https://www.telerik.com/blogs/deploy-angular-application-with-azure-static-web-apps) \[telerik.com]
   * [Building An Angular App With Azure Static Web Apps Service](https://medium.com/bb-tutorials-and-thoughts/building-an-angular-app-with-azure-static-web-apps-service-8fe84ebe4709) \[medium.com]
@@ -72,7 +72,7 @@
 ### Local Dev
 
 * [Developing with VS Code Devcontainers](https://acloudguru.com/blog/engineering/how-to-develop-serverless-apps-with-github-codespaces) ([devcontainer reference](https://github.com/microsoft/vscode-dev-containers/tree/master/containers/azure-static-web-apps) ⚠️ Archived)
-* [Azure Static Web Apps CLI](https://github.com/Azure/static-web-apps-cli) ⭐ 667 | 🐛 146 | 🌐 TypeScript | 📅 2026-10-20
+* [Azure Static Web Apps CLI](https://github.com/Azure/static-web-apps-cli) ⭐ 668 | 🐛 146 | 🌐 TypeScript | 📅 2026-10-20
 * [Azure Static Web Apps Extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurestaticwebapps\&WT.mc_id=javascript-11478-cxa)
 * [Test a staticwebapp.config.json file](https://swa-playground.wassim.dev/)
 
@@ -104,4 +104,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._

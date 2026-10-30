@@ -26,7 +26,7 @@
                     "open_issues": 23,
                     "owner": "manekinekko",
                     "repo": "angular-ssr-swa",
-                    "stars": 21,
+                    "stars": 22,
                     "topics": [
                       "angular",
                       "azure",
@@ -136,7 +136,7 @@
                 "open_issues": 216,
                 "owner": "microsoft",
                 "repo": "vscode-dev-containers",
-                "stars": 4741,
+                "stars": 4742,
                 "topics": [
                   "codespaces",
                   "containers",
@@ -172,7 +172,7 @@
                 "open_issues": 146,
                 "owner": "Azure",
                 "repo": "static-web-apps-cli",
-                "stars": 667,
+                "stars": 668,
                 "topics": [
                   "authentication",
                   "azure",
@@ -484,7 +484,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T20:52:38.803Z",
+    "last_updated": "2026-10-30T20:23:43.946Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of resources for Azure Static Web Apps",
