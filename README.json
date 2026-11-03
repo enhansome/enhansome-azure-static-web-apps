@@ -136,7 +136,7 @@
                 "open_issues": 216,
                 "owner": "microsoft",
                 "repo": "vscode-dev-containers",
-                "stars": 4742,
+                "stars": 4741,
                 "topics": [
                   "codespaces",
                   "containers",
@@ -347,27 +347,6 @@
         },
         {
           "node_type": "item",
-          "title": "TypeScript React + API starter kit",
-          "description": "aaronpowell/aswa-react-template",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A template for creating Azure Static Web Apps using React",
-            "homepage": null,
-            "id": 277428685,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2023-01-07T05:05:25Z",
-            "open_issues": 20,
-            "owner": "aaronpowell",
-            "repo": "aswa-react-template",
-            "stars": 17,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T00:24:02.863Z"
-        },
-        {
-          "node_type": "item",
           "title": "Azure Static Web Apps Minimal HTML/JS/CSS Template",
           "description": "sinedied/swag-demo",
           "children": [],
@@ -392,6 +371,27 @@
               "template",
               "webapp"
             ]
+          },
+          "first_seen": "2026-08-29T00:24:02.863Z"
+        },
+        {
+          "node_type": "item",
+          "title": "TypeScript React + API starter kit",
+          "description": "aaronpowell/aswa-react-template",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A template for creating Azure Static Web Apps using React",
+            "homepage": null,
+            "id": 277428685,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2023-01-07T05:05:25Z",
+            "open_issues": 20,
+            "owner": "aaronpowell",
+            "repo": "aswa-react-template",
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:24:02.863Z"
         },
@@ -484,7 +484,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T23:18:23.371Z",
+    "last_updated": "2026-11-03T21:28:56.538Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of resources for Azure Static Web Apps",
