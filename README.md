@@ -16,7 +16,7 @@
 ## General Resources
 
 * [Official docs and quickstart](https://docs.microsoft.com/azure/static-web-apps/?WT.mc_id=javascript-11478-cxa)
-* [GitHub issue register](https://github.com/Azure/static-web-apps/issues) ⭐ 347 | 🐛 830 | 📅 2024-11-08
+* [GitHub issue register](https://github.com/Azure/static-web-apps/issues) ⭐ 347 | 🐛 831 | 📅 2024-11-08
 
 ## Learning resources
 
@@ -104,4 +104,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
