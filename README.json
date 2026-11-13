@@ -172,7 +172,7 @@
                 "open_issues": 146,
                 "owner": "Azure",
                 "repo": "static-web-apps-cli",
-                "stars": 668,
+                "stars": 669,
                 "topics": [
                   "authentication",
                   "azure",
@@ -484,7 +484,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T22:02:10.304Z",
+    "last_updated": "2026-11-13T21:47:53.075Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of resources for Azure Static Web Apps",
